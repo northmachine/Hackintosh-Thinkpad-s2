@@ -5,6 +5,8 @@ Sharing Hackintosh EFI for Thinkpad S2 2017
 #### macOS Mojave完美
 #### Intel i5-7500 HD620
 #### 适用机型Thinkpad s2 2017
+  使用黑果小兵Mojave10.14.0镜像
+  感谢Gsion帮助和宪武的Hotpatch支持
   驱动声卡、显卡、无线网卡、蓝牙（需要自行替换板载intel网卡————我使用的是博通DW1560）
   风扇转数、变频、温度，可以用RED开启HIDPI
   电池做好，正常睡眠
